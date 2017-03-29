@@ -2,104 +2,32 @@
 
   
     {
-      "title"			: "Algorithmic Biology",
-      "link"			: "http://mnp-club.github.io//events/algo-bio/",
-      "excerpt"		: "from Molecules to Intelligence!"
+      "title"			: "Launching Summer of Science 2017",
+      "link"			: "http://mnp-club.github.io/blog/summer-of-science/",
+      "excerpt"		: "Summer of Science is an initiative by the Maths and Physics Club, to encourage, and help discover, the joy of learning."
     }
   
 
   
     ,{
-      "title"			: "Logic GC",
-      "link"			: "http://mnp-club.github.io//events/logic-gc1/",
-      "excerpt"		: ""
-    }
-  
-
-  
-    ,{
-      "title"			: "Talk on Graph Theory",
-      "link"			: "http://mnp-club.github.io//events/GraphTheory/",
-      "excerpt"		: "We started with a recap of the definition and various representations of graphs. We reviewed bi-partite graphs, n-partite graphs, planar graphs and trees. Cographs can be defined inductively as: a trivial graph is a cograph and a “disjoint union” or a “join” of two cographs is a cograph. Every cograph can be represented by a binary cotree (not unique) with leaf nodes as vertices and all internal nodes being labelled either as “disjoint union” or “join”. A graph is a cograph iff P3 (path of length 3) is not an induced subgraph. This characterization can be used to determine whether a graph is a cograph in linear time.The cotree representation suggests a generalization of the class of cographs. As before, each vertex is a leaf node in the tree representation. Assign a label to each leaf node from a set of labels L. Now each internal node is a relation on L. Two leaf nodes are adjacent iff their labels are related by the relation defined by their least common ancestor in the tree representation. The special case where L is singleton gives us cographs. After this we looked at representing graph theoretic problems in first order and second order logic. Relation between complexity of solving a problem and complexity of stating a problem in a formal language was discussed. For example, all problems expressible in First Order logic have polynomial time algorithms (ie they are in P). Furthermore, Fagin showed in 1973 that the set of all properties expressible in existential second-order logic is precisely the complexity class NP! This suggests a new approach to P vs NP."
-    }
-  
-
-  
-    ,{
-      "title"			: "Physics Detective",
-      "link"			: "http://mnp-club.github.io//events/physics-detective/",
-      "excerpt"		: "Venue : New Yoga Room, Old SAC"
-    }
-  
-
-  
-    ,{
-      "title"			: "Lab Visit",
-      "link"			: "http://mnp-club.github.io//events/lab-visit-spacetime/",
-      "excerpt"		: "The Space-Time lab is IIT Bombay’s own super-computing facility.The one of its kind laboratory in India, this super computing cluster consists of about 380 nodes with as many as 3040 processing cores, built using the most recent Intel quad core processors. The aggregate theoretical speed is expected to hover around 22 Tera-Flops. R. B. Sunoj sir will be present to tell us more about the lab!"
-    }
-  
-
-  
-    ,{
-      "title"			: "Documentary Screening",
-      "link"			: "http://mnp-club.github.io//events/documentary-screening-feynman/",
-      "excerpt"		: "Venue : FC Kohli Auditorium, KReSIT"
-    }
-  
-
-  
-    ,{
-      "title"			: "Group Discussion",
-      "link"			: "http://mnp-club.github.io//events/gd-1/",
-      "excerpt"		: "The GD began with a very interesting game. The game is as follows,It is a 2 player game: each player chooses a number from 1 - 9 and each number chosen should not be previously chosen by any of the two players. If the last three numbers adds to 15 the player wins. Does there exist a winning strategy."
+      "title"			: "Quantum Computing",
+      "link"			: "http://mnp-club.github.io/blog/quantum-computation/",
+      "excerpt"		: "The following article was written for and published by the annual newsletter of Dept. of Physics, IIT Bombay in collaboration with Insight, the student media body of IITB, in the Autumn semester of my freshmen year (2015). It is aimed at providing a brief info to the latest advancements in the field of quantum computing and what lies ahead."
     }
   
 
   
     ,{
       "title"			: "The Universe and Beyond!",
-      "link"			: "http://mnp-club.github.io//blog/universe/",
+      "link"			: "http://mnp-club.github.io/blog/universe/",
       "excerpt"		: "Is our universe really infinite? If you keep going in some direction in a spacecraft will you see some magical force field and a sign board saying “End of the Universe, Keep Out!” (Or rather, keep in? :P). "
     }
   
 
   
     ,{
-      "title"			: "Bazinga! Maths",
-      "link"			: "http://mnp-club.github.io//events/bazinga-maths/",
-      "excerpt"		: "Bazinga Maths is a quiz where teams compete to solve an assortment of problems from buzzer round and paradox resolution questions to deep thought problems. While the solutions are based on elementary concepts, they’re sure to test your creativity and challenge your reasoning skills!"
-    }
-  
-
-  
-    ,{
-      "title"			: "Bazinga! Physics",
-      "link"			: "http://mnp-club.github.io//events/bazinga-physics/",
-      "excerpt"		: "Bazinga Physics is a 3 round quiz where the participant have to rack their brains and use simple intuitive physics concept to solve questions. The questions can be explaining a simple everyday phenomenon to solving some mind-bending thought experiment. Join in and lets enjoy the true essence of physics."
-    }
-  
-
-  
-    ,{
-      "title"			: "STAB Orientation For The Freshmen",
-      "link"			: "http://mnp-club.github.io//events/stab-orientation/",
-      "excerpt"		: "Orientation for the Freshman on the activities, culture, enthusiasm and achievements of the TECH society in IIT Bombay."
-    }
-  
-
-  
-    ,{
-      "title"			: "Summer Of Science (SOS) Project Presentation",
-      "link"			: "http://mnp-club.github.io//events/sos-meetup/",
-      "excerpt"		: "Informal Presentation of the Projects done by IIT Bombay students who took up Summer of Science Projects during the summer."
-    }
-  
-
-  
-    ,{
       "title"			: "Blackhole Information Paradox",
-      "link"			: "http://mnp-club.github.io//blog/blackhole-paradox/",
+      "link"			: "http://mnp-club.github.io/blog/blackhole-paradox/",
       "excerpt"		: "Does the baffle still remain?"
     }
   
@@ -107,7 +35,7 @@
   
     ,{
       "title"			: "Brain's Positioning System",
-      "link"			: "http://mnp-club.github.io//blog/brain-positioning/",
+      "link"			: "http://mnp-club.github.io/blog/brain-positioning/",
       "excerpt"		: "Ever wondered what’s happening in our brains when we get lost or explore a new place? The Nobel Prize in Physiology for the year 2014 was awarded for some of the answers to this problem which had been puzzling scientists for almost a century."
     }
   
@@ -115,7 +43,7 @@
   
     ,{
       "title"			: "Memristors and the Future of Computing",
-      "link"			: "http://mnp-club.github.io//blog/memristors/",
+      "link"			: "http://mnp-club.github.io/blog/memristors/",
       "excerpt"		: "Welcome the days of a new kind of electronic device.. All hail the memristor, a device that could revolutionarise the world of computing by implementing wonderful technology!"
     }
   
@@ -123,7 +51,7 @@
   
     ,{
       "title"			: "Flexagons",
-      "link"			: "http://mnp-club.github.io//blog/flexagons/",
+      "link"			: "http://mnp-club.github.io/blog/flexagons/",
       "excerpt"		: "Flexagons are paper polygons, folded from straight or crooked strips of paper, which have the fascinating property of changing their faces when they are “flexed”"
     }
   
@@ -147,7 +75,7 @@
   
     ,{
       "title"			: "About us",
-      "link"			: "http://mnp-club.github.io//about/",
+      "link"			: "http://mnp-club.github.io/about/",
       "excerpt"		: "Maths And Physics Club is"
     }
   

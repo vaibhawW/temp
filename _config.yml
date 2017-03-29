@@ -5,7 +5,7 @@ locale: India
 description: Where Knowledge is Free...
 logo: site-logo.png
 search: true
-url: http://mnp-club.github.io/
+url: http://mnp-club.github.io
 
 # Jekyll configuration
 
@@ -66,6 +66,6 @@ owner:
     analytics: UA-78761274-1
     verify:
   bing-verify:
-  disqus-shortname: mnp-club
+  disqus-shortname: mnp-club-github-io
   disqus-comment_count: true
   disqus-developer_mode: true

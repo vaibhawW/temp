@@ -7,6 +7,8 @@ image:
   feature: About_img.png
 ---
 
+Events for the academic year 2017-18 will be announced soon. Meanwhile, you can follow us on Facebook!
+
 
 {% for post in site.categories.events %} 
 
@@ -30,3 +32,4 @@ image:
 
 {% endfor %}
 
+<div class="fb-page" data-href="https://www.facebook.com/mnpiitb" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/mnpiitb" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/mnpiitb">Maths and Physics Club, IIT Bombay</a></blockquote></div>

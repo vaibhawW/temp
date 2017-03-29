@@ -2,277 +2,188 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">Maths & Physics Club</title>
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://mnp-club.github.io//feed.xml" />
-<link rel="alternate" type="text/html" href="http://mnp-club.github.io/" />
-<updated>2016-10-28T16:41:32+05:30</updated>
-<id>http://mnp-club.github.io//</id>
+<link rel="self" type="application/atom+xml" href="http://mnp-club.github.io/feed.xml" />
+<link rel="alternate" type="text/html" href="http://mnp-club.github.io" />
+<updated>2017-03-29T10:55:43+05:30</updated>
+<id>http://mnp-club.github.io/</id>
 <author>
   <name>Maths And Physics Club</name>
-  <uri>http://mnp-club.github.io//</uri>
+  <uri>http://mnp-club.github.io/</uri>
   <email>mnp-club-iitb@googlegroups.com</email>
 </author>
 
 
 <entry>
-  <title type="html"><![CDATA[Algorithmic Biology]]></title>
-  <link rel="alternate" type="text/html" href="http://mnp-club.github.io//events/algo-bio/" />
-  <id>http://mnp-club.github.io//events/algo-bio</id>
-  <published>2016-10-28T04:48:04+05:30</published>
-  <updated>2016-10-28T04:48:04+05:30</updated>
+  <title type="html"><![CDATA[Launching Summer of Science 2017]]></title>
+  <link rel="alternate" type="text/html" href="http://mnp-club.github.io/blog/summer-of-science/" />
+  <id>http://mnp-club.github.io/blog/summer-of-science</id>
+  <published>2017-03-29T15:49:07+05:30</published>
+  <updated>2017-03-29T15:49:07+05:30</updated>
   <author>
-    <name>Maths And Physics Club</name>
-    <uri>http://mnp-club.github.io/</uri>
-    <email>mnp-club-iitb@googlegroups.com</email>
+    <name>Dhruv Ilesh Shah</name>
+    <uri>http://mnp-club.github.io</uri>
+    <email>dhruv.ilesh@gmail.com</email>
   </author>
   <content type="html">
-    &lt;h3 id=&quot;from-molecules-to-intelligence&quot;&gt;from Molecules to Intelligence!&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;/images/Algorithmic-Biology-Talk/poster.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+    &lt;p&gt;Summer of Science is an initiative by the Maths and Physics Club, to encourage, and help discover, the joy of learning.&lt;/p&gt;
 
-&lt;p&gt;A biological cell is nothing but a collection of molecules, yet displays behavior many orders of magnitude more sophisticated than non-biological collections of molecules of the same size, and gives rise to the manifold phenomena of life that we see all around us. This is because the molecular ensembles in cells are self-organized into structures and networks that together execute sophisticated algorithms. This ballet of molecular interactions allows living systems to respond in exquisite ways to their environments, and makes them appear &lt;em&gt;intelligent&lt;/em&gt;. Algorithmic Biology is an emerging discipline which attempts to discover, recreate, and explain biological phenomena from an algorithmic perspective.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;“Live as if you were to die tomorrow. Learn as if you were to live forever.” - &lt;strong&gt;Mahatma Gandhi&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;About The Speaker:&lt;/strong&gt; Professor Manoj Gopalkrishnan has recently joined as an Associate Professor in Electrical Engineer at IIT Bombay. He was previously a faculty member in the School of Technology and Computer Science at TIFR Mumbai. He received his PhD in Computer Science from University of Southern California and BTech in Computer Science and Engineering from IIT Kharagpur. He is broadly interested in connections between Information, Biology, and Physics.&lt;/p&gt;
+&lt;p&gt;Has there been something you wanted to explore, but never been able to, for lack of guidance, or simply been unsure where to start? Anything ranging from Computer Architecture, General Relativity, Cosmology, to Abstract Algebra!&lt;/p&gt;
 
-&lt;h3 id=&quot;venue--lc-002&quot;&gt;Venue : LC 002&lt;/h3&gt;
+&lt;p&gt;Got an idea? Have the enthusiasm? We’ll find you a mentor, with sufficient experience on the topic, to guide you on your quest, for the whole duration of summer – starting the first week of May to the second week of July. It is not required to be present in the institute during the entire period of SoS - the interaction with the mentors will be online, and a report has to be submitted by the second week of July. Learning is best done at your own pace - there is no strict requirement on the minimum content that has to be covered. However, it is very strongly recommended that you focus on SoS for at least 25 days during the summer.&lt;/p&gt;
 
-&lt;h3 id=&quot;date-27th-october&quot;&gt;Date: 27th October&lt;/h3&gt;
+&lt;p&gt;A report has to be submitted by the end of the summer, tentatively by second week of July..The Reports will be put up on the website! The SoS certificate, with equal standing as that of ITSP, will be awarded on submission of the report. On the swag factor, we’ll be having a group discussion by the beginning of the semester to discuss what we have learned over the summer.&lt;/p&gt;
 
-&lt;h3 id=&quot;day-thursday&quot;&gt;Day: Thursday&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;“Tell me and I forget, teach me and I may remember, involve me and I learn.” &lt;strong&gt;― Benjamin Franklin.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;time-900-pm&quot;&gt;Time: 9:00 pm&lt;/h3&gt;
+&lt;p&gt;And lastly, the only prerequisite is enthusiasm. No prior knowledge on the topic is expected, and a broad topic is typically chosen at the start of the summer - the specifics can be figured out along the way!&lt;/p&gt;
 
-&lt;hr /&gt;
-
-&lt;p&gt;The talk began with Prof. Gopalkrishnan describing the extent of sophistication achieved by the biological cell and how even a small step towards understanding the details could lead to great advancements. He talked about biochemical reaction networks and how they can be used to model complex statistical phenomena in the simplest of manners - using a &lt;em&gt;soup&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;In an attempt to show how such analogies can be formed, he discussed a portion of his own work and pitched the &lt;em&gt;chemical soup&lt;/em&gt; against a statistician, for solving a very common problem - parameter optimisiation using &lt;a href=&quot;https://en.wikipedia.org/wiki/Maximum_likelihood_estimation&quot;&gt;MLE&lt;/a&gt;. The example used was of a triangular die whose outcomes are dependent on 2 unknown parameters. The magic of &lt;em&gt;mass-action kinetics&lt;/em&gt; gives us that the soup converges to Maximum Likelihood Distribution corresponding to the initial conditions known. This is a very non-trivial theorem and professor developed an intuition behind how it works on the basis of the &lt;em&gt;MaxEnt Principle&lt;/em&gt;. The claim that mass-action kinetics maximises entropy, which eventually converges to the MLD of the outcomes is very interesting, and can be seen as &lt;em&gt;Machine Learning&lt;/em&gt; in the soup. In this way, we can also claim that the biological cell is performing &lt;em&gt;“machine learning”&lt;/em&gt; at some extent, which is very fascinating.&lt;/p&gt;
-
-&lt;p&gt;He went on to explain in what kinds of estimation problems - particularly the log-linear models - the method can be applied, and developed more rigour in the claims. The trick behind the working is derived from topology, toric geometry, information geometry and the MaxEnt Principle of other things. The concepts that go into demostrating this are pretty wide-spread and open new frontiers of inter-disciplinary research!&lt;/p&gt;
-
-&lt;p&gt;Towards the end of the talk, the professor showed how recent advances in computational biology and DNA computing can be mapped onto his research and although we do not know where all this would lead us, it sure is a step - and a whole new &lt;em&gt;nano&lt;/em&gt;-world awaits us!&lt;/p&gt;
-
-&lt;p&gt;More on such cool stuff can be found under the banner of &lt;a href=&quot;http://molecular-programming.org/&quot;&gt;Molecular Programming Project&lt;/a&gt;.&lt;br /&gt;
-You can find Prof. Manoj Gopalkrishnan’s paper on this topic &lt;a href=&quot;https://arxiv.org/abs/1506.03172&quot;&gt;here&lt;/a&gt;.&lt;br /&gt;
-The slides used in the talk can be found &lt;a href=&quot;https://drive.google.com/open?id=0BzrafcdwRhiEZFhkeW84b2VfTFM5bWdVYU01eV9yblBqWW5N&quot;&gt;here.&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Here are some snaps from the talk! Cheers!&lt;/p&gt;
-&lt;table border=&quot;1&quot;&gt;
-&lt;tr&gt;
-&lt;td&gt; &lt;img src=&quot;/images/Algorithmic-Biology-Talk/talk1.1.jpg&quot; /&gt;   
-&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;/images/Algorithmic-Biology-Talk/talk1.2.jpg&quot; /&gt;  
-&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;/images/Algorithmic-Biology-Talk/talk1.3.jpg&quot; /&gt;    
-
-&lt;/td&gt;&lt;/tr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-
-    &lt;p&gt;&lt;a href=&quot;http://mnp-club.github.io//events/algo-bio/&quot;&gt;Algorithmic Biology&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;http://mnp-club.github.io/&quot;&gt;Maths & Physics Club&lt;/a&gt; on October 28, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://mnp-club.github.io/blog/summer-of-science/&quot;&gt;Launching Summer of Science 2017&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;http://mnp-club.github.io&quot;&gt;Maths & Physics Club&lt;/a&gt; on March 29, 2017.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
-  <title type="html"><![CDATA[Logic GC]]></title>
-  <link rel="alternate" type="text/html" href="http://mnp-club.github.io//events/logic-gc1/" />
-  <id>http://mnp-club.github.io//events/logic-gc1</id>
-  <published>2016-10-12T04:48:04+05:30</published>
-  <updated>2016-10-12T04:48:04+05:30</updated>
+  <title type="html"><![CDATA[Quantum Computing]]></title>
+  <link rel="alternate" type="text/html" href="http://mnp-club.github.io/blog/quantum-computation/" />
+  <id>http://mnp-club.github.io/blog/quantum-computation</id>
+  <published>2017-01-09T15:49:07+05:30</published>
+  <updated>2017-01-09T15:49:07+05:30</updated>
   <author>
-    <name>Maths And Physics Club</name>
-    <uri>http://mnp-club.github.io/</uri>
-    <email>mnp-club-iitb@googlegroups.com</email>
+    <name>Toshi Parmar</name>
+    <uri>http://mnp-club.github.io</uri>
+    <email>toshi.tanu08@gmail.com</email>
   </author>
   <content type="html">
-    
+    &lt;p&gt;&lt;strong&gt;&lt;em&gt;The following article was written for and published by the annual newsletter of Dept. of Physics, IIT Bombay in collaboration with Insight, the student media body of IITB, in the Autumn semester of my freshmen year (2015). It is aimed at providing a brief info to the latest advancements in the field of quantum computing and what lies ahead.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://mnp-club.github.io//events/logic-gc1/&quot;&gt;Logic GC&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;http://mnp-club.github.io/&quot;&gt;Maths & Physics Club&lt;/a&gt; on October 12, 2016.&lt;/p&gt;
-  </content>
-</entry>
+&lt;p&gt;&lt;img src=&quot;http://www.doc.ic.ac.uk/~ids/dotdot/misc/images/dilbert-dt970322_295.gif&quot; alt=&quot;Quantum Computation&quot; /&gt;&lt;/p&gt;
 
+&lt;h3 id=&quot;a-new-hope&quot;&gt;A New Hope&lt;/h3&gt;
+&lt;p&gt;Our story begins with a team of researchers at The University of New South Wales(UNSW), Australia, led by Andrew Dzurak who have successfully 
+accomplished the making of a two qubit logic gate in silicon, which is a crucial hurdle overcome in making quantum computers
+a reality. “What we have is a game changer,” says team leader Prof. Dzurak.&lt;/p&gt;
 
-<entry>
-  <title type="html"><![CDATA[Talk on Graph Theory]]></title>
-  <link rel="alternate" type="text/html" href="http://mnp-club.github.io//events/GraphTheory/" />
-  <id>http://mnp-club.github.io//events/GraphTheory</id>
-  <published>2016-09-24T04:48:04+05:30</published>
-  <updated>2016-09-24T04:48:04+05:30</updated>
-  <author>
-    <name>Maths And Physics Club</name>
-    <uri>http://mnp-club.github.io/</uri>
-    <email>mnp-club-iitb@googlegroups.com</email>
-  </author>
-  <content type="html">
-    &lt;p&gt;We started with a recap of the definition and various representations of graphs. We reviewed bi-partite graphs, n-partite graphs, planar graphs and trees. 
-Cographs can be defined inductively as: a trivial graph is a cograph and a “disjoint union” or a “join” of two cographs is a cograph. Every cograph can be represented by a binary cotree (not unique) with leaf nodes as vertices and all internal nodes being labelled either as “disjoint union” or “join”. A graph is a cograph iff P3 (path of length 3) is not an induced subgraph. This characterization can be used to determine whether a graph is a cograph in linear time.
-The cotree representation suggests a generalization of the class of cographs. As before, each vertex is a leaf node in the tree representation. Assign a label to each leaf node from a set of labels L. Now each internal node is a relation on L. Two leaf nodes are adjacent iff their labels are related by the relation defined by their least common ancestor in the tree representation. The special case where L is singleton gives us cographs. 
-After this we looked at representing graph theoretic problems in first order and second order logic. Relation between complexity of solving a problem and complexity of stating a problem in a formal language was discussed. For example, all problems expressible in First Order logic have polynomial time algorithms (ie they are in P). Furthermore, Fagin showed in 1973 that the set of all properties expressible in existential second-order logic is precisely the complexity class NP! This suggests a new approach to P vs NP.&lt;/p&gt;
+&lt;p&gt;“We’ve demonstrated a two qubit logic gate the central building block of a quantum computer and, significantly, done it in silicon. 
+Because we use essentially the same device technology as existing computer chips, we believe it will be much easier to manufacture 
+a fullscale processor chip than for any of the leading designs, which rely on more exotic technologies.”
+The key idea behind the working of the UNSW team has been the morphing of normal transistors, into defining quantum bits or ‘qubits’, 
+by ensuring that each transistor has a single electron associated with it, and representing the binary equivalent of numbers 0 and 1 
+by spin of the electron.&lt;/p&gt;
 
-&lt;p&gt;Graph (definition): &lt;a href=&quot;https://en.wikipedia.org/wiki/Graph_theory#Graph&quot;&gt;here&lt;/a&gt; 
-&lt;br /&gt;
-Cographs : &lt;a href=&quot;https://en.wikipedia.org/wiki/Cograph&quot;&gt;here&lt;/a&gt;
-&lt;br /&gt;
-Fagin’s theorem: &lt;a href=&quot;https://en.wikipedia.org/wiki/Fagin%27s_theorem&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The sentence makes sense quite ephemerally, so let’s deconstruct the concept in lyman’s language and restore freedom to our bound curiosity…&lt;/p&gt;
 
+&lt;h3 id=&quot;the-very-begining&quot;&gt;The Very Begining&lt;/h3&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://mnp-club.github.io//events/GraphTheory/&quot;&gt;Talk on Graph Theory&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;http://mnp-club.github.io/&quot;&gt;Maths & Physics Club&lt;/a&gt; on September 24, 2016.&lt;/p&gt;
-  </content>
-</entry>
+&lt;p&gt;Essentially the concept of quantum computing involves use of quantum bits or ‘qubits’ instead of conventional bits in boolean algebra, 
+that can be coupled in a scalable manner to make up one and two qubit logic gates. 
+The numerous physical realisations of qubits, single photons, trapped ions, silicon and semiconductor quantum dots, 
+single defects or atoms in diamond etc. have to be sufficiently fault tolerant and conserved under time evolution, 
+with discrete and spaced eigenvalues that can be mapped onto an effective spin 1/2 system.&lt;/p&gt;
 
+&lt;p&gt;The ideation for representing qubits as the spin of an electron was primarily proposed in 1968, 
+and sparked up with eminent physicist Richard Feynman proposing the possibility of a quantum computer in 1982.&lt;/p&gt;
 
-<entry>
-  <title type="html"><![CDATA[Physics Detective]]></title>
-  <link rel="alternate" type="text/html" href="http://mnp-club.github.io//events/physics-detective/" />
-  <id>http://mnp-club.github.io//events/physics-detective</id>
-  <published>2016-09-20T04:48:04+05:30</published>
-  <updated>2016-09-20T04:48:04+05:30</updated>
-  <author>
-    <name>Maths And Physics Club</name>
-    <uri>http://mnp-club.github.io/</uri>
-    <email>mnp-club-iitb@googlegroups.com</email>
-  </author>
-  <content type="html">
-    &lt;h3 id=&quot;venue--new-yoga-room-old-sac&quot;&gt;Venue : New Yoga Room, Old SAC&lt;/h3&gt;
+&lt;h3 id=&quot;that-which-makes-all-the-difference&quot;&gt;That which makes all the difference&lt;/h3&gt;
 
-&lt;h3 id=&quot;date-september-19-2016&quot;&gt;Date: September 19, 2016&lt;/h3&gt;
+&lt;p&gt;The edge that a quantum system has over the conventional is the property of entanglement and superposition of states, 
+i.e. a qubit’s existence is governed by superposition of the two basis states that denote conventional bits 0 and 1, 
+mathematically, a linear combination.&lt;/p&gt;
 
-&lt;h3 id=&quot;day-monday&quot;&gt;Day: Monday&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bloch_sphere.svg/237px-Bloch_sphere.svg.png&quot; alt=&quot;Bloch Sphere&quot; /&gt;&lt;/p&gt;
 
+&lt;p&gt;The bloch sphere shown in the article, is a representation of a qubit with associated probability amplitudes, 
+with the two basis states represented in standard Dirac notation (The braket notation). 
+Thus considering two interacting qubits, four possible combinations yield, each weighed by a coefficient 
+that denotes the probability of existence of the system in that state.
+To specify a combination of two conventional bits, two information are coded, the value of both the bits, 
+while for the quantum system four information, the four coefficients. 
+Thus the information represented by an ‘n’ qubit system is exponentially large in comparison with its classical counterpart, 
+the former is essentially two raised to the latter.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://mnp-club.github.io//events/physics-detective/&quot;&gt;Physics Detective&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;http://mnp-club.github.io/&quot;&gt;Maths & Physics Club&lt;/a&gt; on September 20, 2016.&lt;/p&gt;
-  </content>
-</entry>
+&lt;h3 id=&quot;but-the-world-is-not-all-cupcakes-and-rainbows&quot;&gt;But the world is not all cupcakes and rainbows&lt;/h3&gt;
 
+&lt;p&gt;The state of superposition cascades down to one of its basis states on observation,
+termed as the collapse of the governing Schrodinger wave function, essentially leading to us losing our data that boasted
+of exponentially large capacities to normal bit sized information.
+Thus, here lies the spinner, specific algorithms have to be applied to extract specific information out of a quantum system.
+Many such brilliant minds have risen to the occasion, among them, notably and famed are Peter Shor (Shor’s Algorithm, 1994), 
+Daniel Simon (Simon’s Algorithm, 1994) and Lov K. Grover (Grover’s Algorithm, 1996).&lt;/p&gt;
 
-<entry>
-  <title type="html"><![CDATA[Lab Visit]]></title>
-  <link rel="alternate" type="text/html" href="http://mnp-club.github.io//events/lab-visit-spacetime/" />
-  <id>http://mnp-club.github.io//events/lab-visit-spacetime</id>
-  <published>2016-09-04T04:47:25+05:30</published>
-  <updated>2016-09-04T04:47:25+05:30</updated>
-  <author>
-    <name>Maths And Physics Club</name>
-    <uri>http://mnp-club.github.io/</uri>
-    <email>mnp-club-iitb@googlegroups.com</email>
-  </author>
-  <content type="html">
-    &lt;p&gt;The Space-Time lab is IIT Bombay’s own super-computing facility.
-The one of its kind laboratory in India, this super computing cluster consists of about 380 nodes with as many as 3040 processing cores, built using the most recent Intel quad core processors. The aggregate theoretical speed is expected to hover around 22 Tera-Flops. R. B. Sunoj sir will be present to tell us more about the lab!&lt;/p&gt;
+&lt;p&gt;Let’s take a look at what specific information can be extracted out -&lt;/p&gt;
 
-&lt;p&gt;You can find out more about the lab on the &lt;a href=&quot;http://spacetime.iitb.ac.in/index4.htm&quot;&gt;lab homepage&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Shor’s algorithm is a quantum algorithm that addresses the problem of discrete logarithms and integer factorisation, 
+a problem so intricate that our public key cryptography schemes like the RSA rely on the computational intractability 
+in factoring large numbers for the most advanced classical computers.&lt;/p&gt;
 
-&lt;h3 id=&quot;venue--old-cse-building&quot;&gt;Venue : Old CSE Building&lt;/h3&gt;
+&lt;p&gt;Simon’s algorithm deals with the computational analysis of decision tree complexity and solves the problem exponentially 
+faster than any known classical algorithm.&lt;/p&gt;
 
-&lt;h3 id=&quot;date-september-3-2016&quot;&gt;Date: September 3, 2016&lt;/h3&gt;
+&lt;p&gt;Grover’s algorithm addresses database search, i.e. given a unique output produced by a black box function 
+(A function with unknown formulation but known mapping) it figures out the input with high probability, 
+addressing the problem in quadratically fewer queries than classical.&lt;/p&gt;
 
-&lt;h3 id=&quot;day-saturday&quot;&gt;Day: Saturday&lt;/h3&gt;
+&lt;p&gt;Many more such algorithms exist, attacking with brute force, the issues that lie beyond the scope of classical computers.
+Another problem is that many of the quantum algorithms give probabilistic solutions, solutions with probability very close to one, 
+and which can be improved upon by repeated iterations but nevertheless its probabilistic. 
+Many others however, are fully deterministic and hence efficacious.&lt;/p&gt;
 
-&lt;h3 id=&quot;time-630-pm&quot;&gt;Time: 6:30 pm&lt;/h3&gt;
-&lt;hr /&gt;
+&lt;p&gt;The quantum computers can only respond to specific algorithms and tasks exponentially efficiently than classical, thus, 
+they are not the substitute for them, but an aid, for more technological and advanced sector. 
+Not every task that a normal personal computer does can be effectively performed with them.
+So wish the genie to show you a movie, and quantum computer would be useless trash. Wish to crack security codes for all online credit
+transfers, ye ol’ quantum computer would watch the world burn as it decrypts transactions.&lt;/p&gt;
 
-&lt;p&gt;We visited the SpaceTime High Performance Computing Lab IIT Bombay. The visit was both informative and inspiring. &lt;a href=&quot;http://www.chem.iitb.ac.in/people/Faculty/prof/rbs.html&quot;&gt;Professor Sunoj&lt;/a&gt; (Convener, SpaceTime HPC) and Mr. Trirag Chowdhury (SysAd, SpaceTime HPC) explained the various components and processes that must work harmoniously in order for the 22teraflop supercomputer to do it’s job. The main hardware required for the computing part are Master nodes and several Computing nodes. These nodes are designed to be able to function 24x7 with zero downtime. There’s a huge network of cables (total 6 Km in length!) beneath the floor that connects these nodes. Much of the remaining equipment is engaged in enabling the nodes to function properly, from power supply to cooling. For the facility to be function ceaselessly, redundancy and hot-standby are essential features in every aspect including data storage, cooling system, etc. To know more about the lab visit the &lt;a href=&quot;http://spacetime.iitb.ac.in/index4.htm&quot;&gt;website&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&quot;further-not-so-farther-difficulties-ahead&quot;&gt;Further, not-so-farther difficulties ahead&lt;/h3&gt;
 
-&lt;p&gt;This High Performance Computing facility was ranked 1st in India in 2009 and was among the top 500 in the world for two consecutive rankings. The facility is used by various departments in the institute. This lab is a brainchild of Professor Sunoj who worked dedicatedly towards building this facility overcoming numerous challenges on the way. The message he wanted to share with young minds of the day was that “If you think you can achieve it, no matter how big or risky, stand up for it. Give in your best, and realise that it can happen. It will.”&lt;/p&gt;
+&lt;p&gt;A big hurdle now is to remove decoherence from the system, isolating the system from the
+surroundings, cutting down its interactions that make the system decohere, and to do so
+economically and feasibly. Decoherence is irreversible and nonunitary and thus must be
+controlled if not eradicated. Currently superconducting qubits can be configured to remove
+setting in of significant decoherence in physically avoidable time lag, which typically ranges 
+between the order of nanoseconds to seconds at low temperatures, by cooling the qubit to 20milli kelvin or lower temperatures.&lt;/p&gt;
 
-&lt;p&gt;Over 130 professors across 14 departments in the department use this excellent facility for their HPC needs. Professor Sunoj also briefed us about how he was motivated to build a supercomputer in the campus to suffice his needs in Computational Molecular Chemistry. He is also spearheading the next 52 teraflop HPC installation in the institute ‘SpaceTime-X’ and is a part of the National Supercomputing Mission, with the vision to set up a 1500 teraflop cluster, catapulting India in the supercomputing race!&lt;/p&gt;
+&lt;p&gt;Another problem that is now faced is to scale this system up to vast numbers of stable qubit registers or “q-registers”, 
+quantum mechanical analogues of classical processor registers.&lt;/p&gt;
 
-&lt;p&gt;Images taken during the visit can be found &lt;a href=&quot;https://drive.google.com/folderview?id=0B-eOErpKeOmQU0ZrMmtzRTFPbXc&amp;amp;usp=sharing&quot;&gt;here!&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Unless a very efficient way is developed, optimum working is an impossibility.
+In this direction, Prof. Dzurak notes that the team has “recently patented a design for full scale
+quantum computer chip that would allow for millions of our qubits, all doing the same kind of calculations 
+we’ve just experimentally demonstrated.”&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://mnp-club.github.io//events/lab-visit-spacetime/&quot;&gt;Lab Visit&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;http://mnp-club.github.io/&quot;&gt;Maths & Physics Club&lt;/a&gt; on September 04, 2016.&lt;/p&gt;
-  </content>
-</entry>
+&lt;p&gt;The UNSW team’s research breakthrough has attacked three of the major requirements -&lt;br /&gt;
+1) qubits that can be initialised to arbitrary values, 
+2) qubits with successful readout fidelities, 
+3) a universal CNOT quantum gate, faster than the decoherence time of the system, 
+with the fabrication process compatible with standard Complementary Metal Oxide Semiconductor (CMOS) technology that already exists
+ for manufacturing classical Si based semiconductor chips.
+Future experiments by this team will include improvements to facilitate full two qubit tomography. 
+Improvement by lowering the sensitivity to electrical noise is also targeted. 
+Though the two qubit system represents the smallest scalable system so far, it is consistent with current transistor sizes, offering the prospect of realizing a largescale
+quantum processor using the same silicon manufacturing technologies that have enabled the current information age.&lt;/p&gt;
 
+&lt;p&gt;And lastly, on a more tender note,
+“Computers are physical objects, and computations are physical processes.
+What computers can or cannot compute is determined by the laws of physics alone.”
+– David Deutsch&lt;/p&gt;
 
-<entry>
-  <title type="html"><![CDATA[Documentary Screening]]></title>
-  <link rel="alternate" type="text/html" href="http://mnp-club.github.io//events/documentary-screening-feynman/" />
-  <id>http://mnp-club.github.io//events/documentary-screening-feynman</id>
-  <published>2016-09-01T04:47:25+05:30</published>
-  <updated>2016-09-01T04:47:25+05:30</updated>
-  <author>
-    <name>Maths And Physics Club</name>
-    <uri>http://mnp-club.github.io/</uri>
-    <email>mnp-club-iitb@googlegroups.com</email>
-  </author>
-  <content type="html">
-    &lt;h3 id=&quot;venue--fc-kohli-auditorium-kresit&quot;&gt;Venue : FC Kohli Auditorium, KReSIT&lt;/h3&gt;
+&lt;p&gt;So we mustn’t lose faith. More breakthroughs are yet to arrive!&lt;/p&gt;
 
-&lt;h3 id=&quot;date-august-31-2016&quot;&gt;Date: August 31, 2016&lt;/h3&gt;
-
-&lt;h3 id=&quot;day-wednesday&quot;&gt;Day: Wednesday&lt;/h3&gt;
-
-&lt;h3 id=&quot;time-900-pm&quot;&gt;Time: 9:00 pm&lt;/h3&gt;
-
-    &lt;p&gt;&lt;a href=&quot;http://mnp-club.github.io//events/documentary-screening-feynman/&quot;&gt;Documentary Screening&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;http://mnp-club.github.io/&quot;&gt;Maths & Physics Club&lt;/a&gt; on September 01, 2016.&lt;/p&gt;
-  </content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Group Discussion]]></title>
-  <link rel="alternate" type="text/html" href="http://mnp-club.github.io//events/gd-1/" />
-  <id>http://mnp-club.github.io//events/gd-1</id>
-  <published>2016-08-24T04:47:25+05:30</published>
-  <updated>2016-08-24T04:47:25+05:30</updated>
-  <author>
-    <name>Maths And Physics Club</name>
-    <uri>http://mnp-club.github.io/</uri>
-    <email>mnp-club-iitb@googlegroups.com</email>
-  </author>
-  <content type="html">
-    &lt;p&gt;The GD began with a very interesting game. The game is as follows,
-It is a 2 player game: each player chooses a number from 1 - 9 and each number chosen should not be previously chosen by any of the two players. If the last three numbers adds to 15 the player wins. Does there exist a winning strategy.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Solution:&lt;/strong&gt; There is no winning strategy. Its analogous to playing tic-tac-toe on a magic square hence no solution.&lt;/p&gt;
-
-&lt;h3 id=&quot;epr-paradox&quot;&gt;EPR Paradox&lt;/h3&gt;
-&lt;p&gt;Then we started discussing the EPR Paradox: &lt;a href=&quot;https://en.wikipedia.org/wiki/EPR_paradox&quot;&gt;Einstein-Podolsky-Rosen&lt;/a&gt; and gave the famous example of two particles starting from the same position and moving in the opposite direction such that the total momentum of the system in zero. Now the weird part of this is that if one measures the position of any one of the particles when both the particles are very far apart that transmission of information takes a significant time, we would know the position of the other particle too (by momentum conservation). Likewise, the measurement of position of the second system will determine the measurement of position of the first system, even though the systems are no longer physically linked in the traditional sense of local coupling.&lt;/p&gt;
-
-&lt;p&gt;The act of measuring a observable of a system not only makes it’s wave function to collapse but even the wave function of the other system to collapse instantaneously. Here we see that the fundamental postulate of Special Theory of Relativity that there is a maximum speed of information to travel being violated. And hence the paradox.&lt;/p&gt;
-
-&lt;p&gt;Also the famous example of entangled spins was discussed which can be read &lt;a href=&quot;https://en.wikipedia.org/wiki/EPR_paradox&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;arrows-theorem&quot;&gt;Arrow’s Theorem&lt;/h3&gt;
-&lt;p&gt;The discussion then continued to Arrow’s theorem where students gave the statement of the theorem and described the fair rules.&lt;/p&gt;
-
-&lt;p&gt;A basic statement of the theorem is as follows:
-Arrow’s theorem says that if the decision-making body has at least two members and at least three options to decide among, then it is impossible to design a social welfare function that satisfies all these conditions (assumed to be reasonable requirement of a fair voting system) at once:&lt;/p&gt;
-
-&lt;p&gt;A simple description of the conditions/the fair rules are as follows
-  * If every voter prefers alternative X over alternative Y, then the group prefers X over Y.
-  * If every voter’s preference between X and Y remains unchanged, then the group’s preference between X and Y will also remain unchanged (even if voters’ preferences between other pairs like X and Z, Y and Z, or Z and W change).
-  * There is no “dictator”: no single voter possesses the power to always determine the group’s preference.&lt;/p&gt;
-
-&lt;p&gt;A very interesting and simple informal proof is given &lt;a href=&quot;https://en.wikipedia.org/wiki/Arrow%27s_impossibility_theorem&quot;&gt;here&lt;/a&gt;!&lt;/p&gt;
-
-&lt;h3 id=&quot;maxwells-demon&quot;&gt;Maxwell’s Demon&lt;/h3&gt;
-
-&lt;p&gt;The discussion then was shifted to Maxwell’s demon. One can see the following video by khan academy in which he has described the problem very nicely.&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/aKRDvSZ-igA&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Also, dicussions led to the &lt;a href=&quot;http://www.quantumcomplexity.org/tutorials/knowledge-is-power-the-energy-content-of-bits/&quot;&gt;Szilard’s Engine&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;ltp&quot;&gt;LTP&lt;/h3&gt;
-
-&lt;p&gt;Time for some mind-boggling LTPs to puzzle the group. So one of the LTPs were as follows:&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;At an ancient museum, a burglary takes place. The thief was caught by the security and accused of the robbery. (Declaring him as the thief, we mean that he is the thief.) But according to the law, every citizen gets a chance to call his/her lawyer before trial or imprisonment. The thief calls his/her lawyer. The lawyer arrives and walks away with the thief,lawfully.!
-So What happened exactly?&lt;/em&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-
-    &lt;p&gt;&lt;a href=&quot;http://mnp-club.github.io//events/gd-1/&quot;&gt;Group Discussion&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;http://mnp-club.github.io/&quot;&gt;Maths & Physics Club&lt;/a&gt; on August 24, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://mnp-club.github.io/blog/quantum-computation/&quot;&gt;Quantum Computing&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;http://mnp-club.github.io&quot;&gt;Maths & Physics Club&lt;/a&gt; on January 09, 2017.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[The Universe and Beyond!]]></title>
-  <link rel="alternate" type="text/html" href="http://mnp-club.github.io//blog/universe/" />
-  <id>http://mnp-club.github.io//blog/universe</id>
+  <link rel="alternate" type="text/html" href="http://mnp-club.github.io/blog/universe/" />
+  <id>http://mnp-club.github.io/blog/universe</id>
   <published>2016-08-20T15:49:07+05:30</published>
   <updated>2016-08-20T15:49:07+05:30</updated>
   <author>
     <name>Thariq Shanavas</name>
-    <uri>http://mnp-club.github.io/</uri>
+    <uri>http://mnp-club.github.io</uri>
     
   </author>
   <content type="html">
@@ -308,235 +219,20 @@ So What happened exactly?&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Curious about the mathematical formalism of the Riemann Walker metric? Or the exact deviation of pi from its ‘Euclidean’ value? Dark energy and inflation? &lt;a href=&quot;https://drive.google.com/open?id=0B89M-PMv8EXlRUozVW43RWJtTkE&quot;&gt; &lt;u&gt;Read on &lt;/u&gt;&lt;/a&gt; to find out more!&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://mnp-club.github.io//blog/universe/&quot;&gt;The Universe and Beyond!&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;http://mnp-club.github.io/&quot;&gt;Maths & Physics Club&lt;/a&gt; on August 20, 2016.&lt;/p&gt;
-  </content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Bazinga! Maths]]></title>
-  <link rel="alternate" type="text/html" href="http://mnp-club.github.io//events/bazinga-maths/" />
-  <id>http://mnp-club.github.io//events/bazinga-maths</id>
-  <published>2016-08-12T04:48:04+05:30</published>
-  <updated>2016-08-12T04:48:04+05:30</updated>
-  <author>
-    <name>Maths And Physics Club</name>
-    <uri>http://mnp-club.github.io/</uri>
-    <email>mnp-club-iitb@googlegroups.com</email>
-  </author>
-  <content type="html">
-    &lt;p&gt;Bazinga Maths is a quiz where teams compete to solve an assortment of problems from buzzer round and paradox resolution questions to deep thought problems. While the solutions are based on elementary concepts, they’re sure to test your creativity and challenge your reasoning skills!&lt;/p&gt;
-
-&lt;h3 id=&quot;venue--lh-101&quot;&gt;Venue : LH 101&lt;/h3&gt;
-
-&lt;h3 id=&quot;date-11th-august&quot;&gt;Date: 11th August&lt;/h3&gt;
-
-&lt;h3 id=&quot;day-thursday&quot;&gt;Day: Thursday&lt;/h3&gt;
-
-&lt;h3 id=&quot;time-900-pm&quot;&gt;Time: 9:00 pm&lt;/h3&gt;
-&lt;hr /&gt;
-
-&lt;style&gt;
-table {
-    border-collapse: collapse;
-    width: 100%;
-}
-
-td, th {
-    border: 1px solid #dddddd;
-    text-align: left;
-    padding: 8px;
-}
-
-tr:nth-child(even) {
-    background-color: #dddddd;
-}
-&lt;/style&gt;
-
-&lt;p&gt;&lt;strong&gt;Finalists 2016!&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Bazinga! Maths concluded with a bang - two hours of exciting problem solving, surreal explanations - topped with a nail-biting thumb-crunching finale, with the winners decided by the smallest of margins! We are proud to present the winners of this edition of Bazinga! Maths.&lt;/p&gt;
-&lt;table&gt;
-	&lt;tr&gt;
-        &lt;td width=&quot;10%&quot;&gt; 1.
-		&lt;td width=&quot;30%&quot;&gt; Shourya Pandey &lt;/td&gt;
-		&lt;td width=&quot;30%&quot;&gt; Anuj Shetty &lt;/td&gt;
-		&lt;td width=&quot;30%&quot;&gt; Vaibhav Bhosale &lt;/td&gt;
-    
-    &lt;tr&gt;
-        &lt;td width=&quot;10%&quot;&gt; 2.
-        &lt;td width=&quot;30%&quot;&gt; Kartik Patekar &lt;/td&gt;
-        &lt;td width=&quot;30%&quot;&gt; Deepanshu Kush &lt;/td&gt;
-        &lt;td width=&quot;30%&quot;&gt; Atharva Korde &lt;/td&gt;
-    
-    &lt;tr&gt;
-        &lt;td width=&quot;10%&quot;&gt; 3.
-        &lt;td width=&quot;30%&quot;&gt; Utkarsh Gupta &lt;/td&gt;
-        &lt;td width=&quot;30%&quot;&gt; Sai Sandeep &lt;/td&gt;
-        &lt;td width=&quot;30%&quot;&gt; Venkateshwara Rao Ch &lt;/td&gt;
-    
-    &lt;tr&gt;
-        &lt;td width=&quot;10%&quot;&gt; 4.
-        &lt;td width=&quot;30%&quot;&gt; Sharvik Mittal &lt;/td&gt;
-        &lt;td width=&quot;30%&quot;&gt; Himanshu Gupta &lt;/td&gt;
-        &lt;td width=&quot;30%&quot;&gt; Kunal Mittal &lt;/td&gt;
-    
-
-&lt;hr /&gt;
-For all those who missed, follow &lt;u&gt; &lt;a href=&quot;https://drive.google.com/open?id=0BzrafcdwRhiEaHhkdDhjeDd2VmM&quot; target=&quot;_blank&quot;&gt; this link &lt;/a&gt;&lt;/u&gt;to check out the format and questions the finalists faced in the quiz - from deep-thought questions to paradoxes and more! Hope you all had a fun time!  
-&lt;br /&gt;
-Keep Calm and Bazinga!
-&lt;/td&gt;&lt;/tr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-
-    &lt;p&gt;&lt;a href=&quot;http://mnp-club.github.io//events/bazinga-maths/&quot;&gt;Bazinga! Maths&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;http://mnp-club.github.io/&quot;&gt;Maths & Physics Club&lt;/a&gt; on August 12, 2016.&lt;/p&gt;
-  </content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Bazinga! Physics]]></title>
-  <link rel="alternate" type="text/html" href="http://mnp-club.github.io//events/bazinga-physics/" />
-  <id>http://mnp-club.github.io//events/bazinga-physics</id>
-  <published>2016-08-11T04:47:54+05:30</published>
-  <updated>2016-08-11T04:47:54+05:30</updated>
-  <author>
-    <name>Maths And Physics Club</name>
-    <uri>http://mnp-club.github.io/</uri>
-    <email>mnp-club-iitb@googlegroups.com</email>
-  </author>
-  <content type="html">
-    &lt;p&gt;Bazinga Physics is a 3 round quiz where the participant have to rack their brains and use simple intuitive physics concept to solve questions. The questions can be explaining a simple everyday phenomenon to solving some mind-bending thought experiment. Join in and lets enjoy the true essence of physics.&lt;/p&gt;
-
-&lt;h3 id=&quot;venue--lh-101&quot;&gt;Venue : LH 101&lt;/h3&gt;
-
-&lt;h3 id=&quot;date-10th-august&quot;&gt;Date: 10th August&lt;/h3&gt;
-
-&lt;h3 id=&quot;day-wednesday&quot;&gt;Day: Wednesday&lt;/h3&gt;
-
-&lt;h3 id=&quot;time-900-pm&quot;&gt;Time: 9:00 pm&lt;/h3&gt;
-&lt;hr /&gt;
-
-&lt;style&gt;
-table {
-    border-collapse: collapse;
-    width: 100%;
-}
-
-td, th {
-    border: 1px solid #dddddd;
-    text-align: left;
-    padding: 8px;
-}
-
-tr:nth-child(even) {
-    background-color: #dddddd;
-}
-&lt;/style&gt;
-
-&lt;p&gt;&lt;strong&gt;Finalists 2016!&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Bazinga! Physics concluded with a bang - two hours of exciting reasoning, innovative explanations - topped with a nail-biting finale. We are proud to present the winners of this edition of Bazinga! Physics.&lt;/p&gt;
-&lt;table&gt;
-	&lt;tr&gt;
-        &lt;td width=&quot;10%&quot;&gt; 1.
-		&lt;td width=&quot;30%&quot;&gt; Kartik Patekar &lt;/td&gt;
-		&lt;td width=&quot;30%&quot;&gt; Sheshansh Agrawal &lt;/td&gt;
-		&lt;td width=&quot;30%&quot;&gt; Rohit Kumar Jena &lt;/td&gt;
-    
-    &lt;tr&gt;
-        &lt;td width=&quot;10%&quot;&gt; 2.
-        &lt;td width=&quot;30%&quot;&gt; Pranav Pable &lt;/td&gt;
-        &lt;td width=&quot;30%&quot;&gt; Sanat Anand &lt;/td&gt;
-        &lt;td width=&quot;30%&quot;&gt; Kumar Ayush &lt;/td&gt;
-    
-    &lt;tr&gt;
-        &lt;td width=&quot;10%&quot;&gt; 3.
-        &lt;td width=&quot;30%&quot;&gt; Yash Karnik &lt;/td&gt;
-        &lt;td width=&quot;30%&quot;&gt; Himanshu Aswani &lt;/td&gt;
-        &lt;td width=&quot;30%&quot;&gt; Anant Joshi &lt;/td&gt;
-    
-    &lt;tr&gt;
-        &lt;td width=&quot;10%&quot;&gt; 4.
-        &lt;td width=&quot;30%&quot;&gt; Siddharth Mehta &lt;/td&gt;
-        &lt;td width=&quot;30%&quot;&gt; Arunabh Ghosh &lt;/td&gt;
-        &lt;td width=&quot;30%&quot;&gt; Harsh Mundra &lt;/td&gt;
-    
-
-&lt;hr /&gt;
-For all those who missed, follow &lt;u&gt; &lt;a href=&quot;https://drive.google.com/file/d/0BzrafcdwRhiEMHY5bFFQYXFuWjN4VEtUTFBCRzB6VGFIVklj/view&quot; target=&quot;_blank&quot;&gt; this link &lt;/a&gt;&lt;/u&gt;to check out the format and questions the finalists faced in the quiz - from explanation to paradoxes and more! Hope you all had a fun time!  
-&lt;br /&gt;
-Keep Calm and Bazinga!
-&lt;/td&gt;&lt;/tr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-
-    &lt;p&gt;&lt;a href=&quot;http://mnp-club.github.io//events/bazinga-physics/&quot;&gt;Bazinga! Physics&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;http://mnp-club.github.io/&quot;&gt;Maths & Physics Club&lt;/a&gt; on August 11, 2016.&lt;/p&gt;
-  </content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[STAB Orientation For The Freshmen]]></title>
-  <link rel="alternate" type="text/html" href="http://mnp-club.github.io//events/stab-orientation/" />
-  <id>http://mnp-club.github.io//events/stab-orientation</id>
-  <published>2016-08-04T04:47:25+05:30</published>
-  <updated>2016-08-04T04:47:25+05:30</updated>
-  <author>
-    <name>Maths And Physics Club</name>
-    <uri>http://mnp-club.github.io/</uri>
-    <email>mnp-club-iitb@googlegroups.com</email>
-  </author>
-  <content type="html">
-    &lt;p&gt;Orientation for the Freshman on the activities, culture, enthusiasm and achievements of the TECH society in IIT Bombay.&lt;/p&gt;
-
-&lt;h2 id=&quot;venue-lt-pcsa&quot;&gt;Venue: LT PCSA&lt;/h2&gt;
-
-&lt;h2 id=&quot;date-3rd-august&quot;&gt;Date: 3rd August&lt;/h2&gt;
-
-&lt;h2 id=&quot;day-wednesday&quot;&gt;Day: Wednesday&lt;/h2&gt;
-
-&lt;h2 id=&quot;time-500-pm&quot;&gt;Time: 5:00 pm&lt;/h2&gt;
-
-
-    &lt;p&gt;&lt;a href=&quot;http://mnp-club.github.io//events/stab-orientation/&quot;&gt;STAB Orientation For The Freshmen&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;http://mnp-club.github.io/&quot;&gt;Maths & Physics Club&lt;/a&gt; on August 04, 2016.&lt;/p&gt;
-  </content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Summer Of Science (SOS) Project Presentation]]></title>
-  <link rel="alternate" type="text/html" href="http://mnp-club.github.io//events/sos-meetup/" />
-  <id>http://mnp-club.github.io//events/sos-meetup</id>
-  <published>2016-07-29T04:47:02+05:30</published>
-  <updated>2016-07-29T04:47:02+05:30</updated>
-  <author>
-    <name>Maths And Physics Club</name>
-    <uri>http://mnp-club.github.io/</uri>
-    <email>mnp-club-iitb@googlegroups.com</email>
-  </author>
-  <content type="html">
-    &lt;p&gt;Informal Presentation of the Projects done by IIT Bombay students who took up Summer of Science Projects during the summer.&lt;/p&gt;
-
-&lt;h2 id=&quot;venue--new-yoga-room-sac&quot;&gt;Venue : New Yoga Room, SAC&lt;/h2&gt;
-
-&lt;h2 id=&quot;date-28th-july&quot;&gt;Date: 28th July&lt;/h2&gt;
-
-&lt;h2 id=&quot;day-thursday&quot;&gt;Day: Thursday&lt;/h2&gt;
-
-&lt;h2 id=&quot;time-900-pm&quot;&gt;Time: 9:00 pm&lt;/h2&gt;
-
-    &lt;p&gt;&lt;a href=&quot;http://mnp-club.github.io//events/sos-meetup/&quot;&gt;Summer Of Science (SOS) Project Presentation&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;http://mnp-club.github.io/&quot;&gt;Maths & Physics Club&lt;/a&gt; on July 29, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://mnp-club.github.io/blog/universe/&quot;&gt;The Universe and Beyond!&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;http://mnp-club.github.io&quot;&gt;Maths & Physics Club&lt;/a&gt; on August 20, 2016.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Blackhole Information Paradox]]></title>
-  <link rel="alternate" type="text/html" href="http://mnp-club.github.io//blog/blackhole-paradox/" />
-  <id>http://mnp-club.github.io//blog/blackhole-paradox</id>
+  <link rel="alternate" type="text/html" href="http://mnp-club.github.io/blog/blackhole-paradox/" />
+  <id>http://mnp-club.github.io/blog/blackhole-paradox</id>
   <published>2016-07-24T15:49:07+05:30</published>
   <updated>2016-07-24T15:49:07+05:30</updated>
   <author>
     <name>Toshi Parmar</name>
-    <uri>http://mnp-club.github.io/</uri>
+    <uri>http://mnp-club.github.io</uri>
     <email>toshi.tanu08@gmail.com</email>
   </author>
   <content type="html">
@@ -602,20 +298,20 @@ A year later, L. Susskind published a paper, ‘The World as A Hologram’$^{[19
 [19] &lt;a href=&quot;http://xxx.lanl.gov/abs/hep-th/9409089&quot;&gt;The World as Hologram&lt;/a&gt;&lt;br /&gt;
 [20] &lt;a href=&quot;http://blogs.scientificamerican.com/dark-star-diaries/stephen-hawking-s-new-black-hole-paper-translated-an-interview-with-co-author-andrew-strominger/&quot;&gt;Interview by co-author Andrew Strominger&lt;/a&gt;)&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://mnp-club.github.io//blog/blackhole-paradox/&quot;&gt;Blackhole Information Paradox&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;http://mnp-club.github.io/&quot;&gt;Maths & Physics Club&lt;/a&gt; on July 24, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://mnp-club.github.io/blog/blackhole-paradox/&quot;&gt;Blackhole Information Paradox&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;http://mnp-club.github.io&quot;&gt;Maths & Physics Club&lt;/a&gt; on July 24, 2016.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Brain's Positioning System]]></title>
-  <link rel="alternate" type="text/html" href="http://mnp-club.github.io//blog/brain-positioning/" />
-  <id>http://mnp-club.github.io//blog/brain-positioning</id>
+  <link rel="alternate" type="text/html" href="http://mnp-club.github.io/blog/brain-positioning/" />
+  <id>http://mnp-club.github.io/blog/brain-positioning</id>
   <published>2016-06-06T05:31:22+05:30</published>
   <updated>2016-06-06T05:31:22+05:30</updated>
   <author>
     <name>Thariq Shanavas</name>
-    <uri>http://mnp-club.github.io/</uri>
+    <uri>http://mnp-club.github.io</uri>
     
   </author>
   <content type="html">
@@ -649,20 +345,20 @@ It is now believed that the hippocampus stores not just the position, but also t
 
 &lt;p&gt;&lt;b&gt;However, the scientific world is still pretty much in the dark as to how this information is used by the rest of the brain’s systems or the evolutionary origins of this intricate mechanism. The location systems of the brain and the mechanisms of memory formation will undoubtedly be a fascinating area of research for many years to come.&lt;/b&gt;&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://mnp-club.github.io//blog/brain-positioning/&quot;&gt;Brain&#39;s Positioning System&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;http://mnp-club.github.io/&quot;&gt;Maths & Physics Club&lt;/a&gt; on June 06, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://mnp-club.github.io/blog/brain-positioning/&quot;&gt;Brain&#39;s Positioning System&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;http://mnp-club.github.io&quot;&gt;Maths & Physics Club&lt;/a&gt; on June 06, 2016.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Memristors and the Future of Computing]]></title>
-  <link rel="alternate" type="text/html" href="http://mnp-club.github.io//blog/memristors/" />
-  <id>http://mnp-club.github.io//blog/memristors</id>
+  <link rel="alternate" type="text/html" href="http://mnp-club.github.io/blog/memristors/" />
+  <id>http://mnp-club.github.io/blog/memristors</id>
   <published>2016-05-31T15:49:07+05:30</published>
   <updated>2016-05-31T15:49:07+05:30</updated>
   <author>
     <name>Dhruv Ilesh Shah</name>
-    <uri>http://mnp-club.github.io/</uri>
+    <uri>http://mnp-club.github.io</uri>
     <email>dhruv.ilesh@gmail.com</email>
   </author>
   <content type="html">
@@ -690,20 +386,20 @@ It is now believed that the hippocampus stores not just the position, but also t
 
 &lt;p&gt;&lt;i&gt;The outcome of this revolution would only be evident by the next decade, but the fact that nano-electronics has enabled us to revolutionarise the micro-electronics industry is a clear signal - to cope up with our growing computing needs, to explore the vastness of Universe, the path goes from within the Nano World! Memristors and Qubits are all set to power the upcoming generations in unfolding the mysteries of our creation, existence and the universe (multiple of them, in fact!)&lt;/i&gt;&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://mnp-club.github.io//blog/memristors/&quot;&gt;Memristors and the Future of Computing&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;http://mnp-club.github.io/&quot;&gt;Maths & Physics Club&lt;/a&gt; on May 31, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://mnp-club.github.io/blog/memristors/&quot;&gt;Memristors and the Future of Computing&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;http://mnp-club.github.io&quot;&gt;Maths & Physics Club&lt;/a&gt; on May 31, 2016.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Flexagons]]></title>
-  <link rel="alternate" type="text/html" href="http://mnp-club.github.io//blog/flexagons/" />
-  <id>http://mnp-club.github.io//blog/flexagons</id>
+  <link rel="alternate" type="text/html" href="http://mnp-club.github.io/blog/flexagons/" />
+  <id>http://mnp-club.github.io/blog/flexagons</id>
   <published>2016-05-04T15:49:07+05:30</published>
   <updated>2016-05-04T15:49:07+05:30</updated>
   <author>
     <name>Parth Jatakia</name>
-    <uri>http://mnp-club.github.io/</uri>
+    <uri>http://mnp-club.github.io</uri>
     <email>parth.jatakia@gmail.com</email>
   </author>
   <content type="html">
@@ -733,7 +429,7 @@ Tuckerman quickly discovered that the simplest way to bring out all the faces of
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/GTwrVAbV56o&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;/center&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://mnp-club.github.io//blog/flexagons/&quot;&gt;Flexagons&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;http://mnp-club.github.io/&quot;&gt;Maths & Physics Club&lt;/a&gt; on May 04, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://mnp-club.github.io/blog/flexagons/&quot;&gt;Flexagons&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;http://mnp-club.github.io&quot;&gt;Maths & Physics Club&lt;/a&gt; on May 04, 2016.&lt;/p&gt;
   </content>
 </entry>
 
