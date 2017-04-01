@@ -37,3 +37,5 @@ Once you have the above packages, you can now create your own post! Just a few m
   7. Once this is done, visit [Github](https://github.com/) and open your version of the club site. Create a _Pull Request_, and allow us to verify the post. It should be up on the site in no time!
 
 We look forward to receiving some amazing posts from you soon!
+
+Website has been created by Parth Jatakia ( Convener 2016-17 ) and Dhruv Shah ( Convener 2016-17 ).
