@@ -5,7 +5,7 @@ modified:
 categories: blog
 excerpt:
 tags: [SoS, Summers]
-author : dhruv_shah
+author : thariq
 comments: true
 image:
   feature:
