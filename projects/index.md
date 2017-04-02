@@ -37,7 +37,7 @@ tr:nth-child(even) {
 <body>
 
 <br>
-<p style="text-align: center;"><span style="font-family:times new roman,times,serif;"><em><span style="font-size:36px;">Introducing:</span></em></span></p>
+<p style="text-align: center;"><span style="font-family:times new roman,times,serif;"><em><span style="font-size:36px;">Launching:</span></em></span></p>
 <h1 style="text-align: center;"><a href="http://mnp-club.github.io/blog/summer-of-science/"><span style="color:#000000;"><u><span style="font-family:times new roman,times,serif;"><span style="font-size:40px;">The Summer of Science 2017</span></span></u></span></a></h1>
 <br>
 
