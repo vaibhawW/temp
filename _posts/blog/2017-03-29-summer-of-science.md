@@ -9,7 +9,7 @@ author : thariq
 comments: true
 image:
   feature:
-date: 
+date: 2011-06-29T10:19:07+00:00
 ---
 
 Summer of Science is an initiative by the Maths and Physics Club, to encourage, and help discover, the joy of learning.
