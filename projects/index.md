@@ -35,15 +35,15 @@ tr:nth-child(even) {
 }
 </style>
 <body>
-<br>
+
 <br>
 <h1 style="text-align: center;"><a href="http://bleh"><span style="color:#000000;"><u><span style="font-family:times new roman,times,serif;"><span style="font-size:48px;">The Summer of Science 2017</span></span></u></span></a></h1>
 <br>
+
 <br>
+<p style="text-align: center;"><span style="font-size:36px;"><font face="times new roman, times, serif">Previous Summer of Science and ITSP Projects</font></span></p>
 <br>
-<p style="text-align: center;"><span style="font-size:36px;"><font face="times new roman, times, serif">The Summer of Science 2016<em> Projects</em></font></span></p>
-<br>
-<br>
+
 <table>
   <tr>
     <td width="50%"><iframe width="560" height="315" src="https://www.youtube.com/embed/ibvvcEx5UDU" frameborder="0" allowfullscreen></iframe></td>
