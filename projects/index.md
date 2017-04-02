@@ -9,11 +9,17 @@ image:
 <!--
 <ul class="post-list">
 {% for post in site.categories.projects %}
+
+<h2>The Summer of Science 2017</h2>
+
   <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></article></li>
 {% endfor %}
 </ul>
 -->
 <style>
+
+h2{text-align:center;font-family:Garamond, serif;color:#000000;background-color:#FFFFFF;}
+
 table {
     border-collapse: collapse;
     width: 100%;

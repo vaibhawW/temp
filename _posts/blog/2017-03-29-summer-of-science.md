@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Launching Summer of Science 2017
+title: The Summer of Science
 modified:
 categories: blog
 excerpt:
@@ -9,7 +9,7 @@ author : dhruv_shah
 comments: true
 image:
   feature:
-date: 2017-03-29T10:19:07+00:00
+date: 2017-06-29T10:19:07+00:00
 ---
 
 Summer of Science is an initiative by the Maths and Physics Club, to encourage, and help discover, the joy of learning.
