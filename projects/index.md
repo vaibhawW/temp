@@ -37,12 +37,13 @@ tr:nth-child(even) {
 <body>
 
 <br>
-<h1 style="text-align: center;"><a href="http://bleh"><span style="color:#000000;"><u><span style="font-family:times new roman,times,serif;"><span style="font-size:48px;">The Summer of Science 2017</span></span></u></span></a></h1>
+<p><span style="font-family:times new roman,times,serif;"><span style="font-size:22px;">Introducing:</span></span></p>
+<h1 style="text-align: center;"><a href="http://mnp-club.github.io/blog/summer-of-science/"><span style="color:#000000;"><u><span style="font-family:times new roman,times,serif;"><span style="font-size:40px;">The Summer of Science 2017</span></span></u></span></a></h1>
 <br>
 
 <br>
 <p style="text-align: center;"><span style="font-size:36px;"><font face="times new roman, times, serif">Previous Summer of Science and ITSP Projects</font></span></p>
-<br>
+
 
 <table>
   <tr>
