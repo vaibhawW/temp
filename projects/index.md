@@ -10,7 +10,7 @@ image:
 <ul class="post-list">
 {% for post in site.categories.projects %}
 
-<h2>The Summer of Science 2017</h2>
+
 
   <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></article></li>
 {% endfor %}
@@ -36,7 +36,7 @@ tr:nth-child(even) {
 }
 </style>
 <body>
-
+<h2>The Summer of Science 2017</h2>
 <table>
   <tr>
     <td width="50%"><iframe width="560" height="315" src="https://www.youtube.com/embed/ibvvcEx5UDU" frameborder="0" allowfullscreen></iframe></td>
