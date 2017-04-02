@@ -37,12 +37,13 @@ tr:nth-child(even) {
 <body>
 
 <br>
-<p style="text-align: center;"><span style="font-family:times new roman,times,serif;"><em><span style="font-size:36px;">Launching:</span></em></span></p>
+<!-- <p style="text-align: center;"><span style="font-family:times new roman,times,serif;"><em><span style="font-size:36px;">Launching:</span></em></span></p> -->
 <h1 style="text-align: center;"><a href="http://mnp-club.github.io/blog/summer-of-science/"><span style="color:#000000;"><u><span style="font-family:times new roman,times,serif;"><span style="font-size:40px;">The Summer of Science 2017</span></span></u></span></a></h1>
 <br>
-Click the above link for more information on the Summer of Science!
+Summer of Science is an initiative by the Maths and Physics Club, to encourage, and help discover, the joy of learning. To know more, click <a href="http://mnp-club.github.io/blog/summer-of-science/">here!</a>
+
 <br>
-<p style="text-align: center;"><span style="font-size:30px;"><font face="times new roman, times, serif">Previous Summer of Science and ITSP Projects</font></span></p>
+<p style="text-align: center;"><span style="font-size:30px;"><u><font face="times new roman, times, serif">Previous Summer of Science and ITSP Projects</font></u></span></p>
 
 
 <table>
