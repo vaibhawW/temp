@@ -43,7 +43,7 @@ tr:nth-child(even) {
 Summer of Science is an initiative by the Maths and Physics Club, to encourage, and help discover, the joy of learning. To know more, click <a href="http://mnp-club.github.io/blog/summer-of-science/">here!</a>
 
 <br>
-<p style="text-align: center;"><span style="font-size:30px;"><u><font face="times new roman, times, serif">Previous Summer of Science and ITSP Projects</font></u></span></p>
+<p style="text-align: center;"><span style="font-size:30px;"><u><b><font face="times new roman, times, serif">Previous Summer of Science and ITSP Projects</font></b></u></span></p>
 
 
 <table>
